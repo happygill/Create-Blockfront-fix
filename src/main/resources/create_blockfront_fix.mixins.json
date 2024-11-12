@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "priority": 1000,
+  "package": "com.happysg.cb.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "create_blockfront_fix.refmap.json",
+  "mixins": [
+    "WorldHelperMixin"
+  ],
+  "minVersion": "0.8"
+}
